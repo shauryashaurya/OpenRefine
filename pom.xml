@@ -88,7 +88,7 @@
     <commons-validator.version>1.8.0</commons-validator.version>
     <org-jvnet-localizer.version>1.31</org-jvnet-localizer.version>
     <!-- v1.15 of commons-codec is needed for Jena 3.14+ - copied from org.apache.jena:jena:pom -->
-    <commons-codec.version>1.16.1</commons-codec.version>
+    <commons-codec.version>1.17.0</commons-codec.version>
     <commons-compress.version>1.26.1</commons-compress.version>
     <velocity.version>2.3</velocity.version>
     <marc4j.version>2.9.5</marc4j.version>
@@ -104,7 +104,7 @@
     <guava.version>33.1.0-jre</guava.version>
     <jaxb-api.version>2.3.1</jaxb-api.version>
     <juniversalchardet.version>2.4.0</juniversalchardet.version>
-    <testng.version>7.10.1</testng.version>
+    <testng.version>7.10.2</testng.version>
     <httpmime.version>4.5.14</httpmime.version>
     <owasp-encoder.version>1.2.3</owasp-encoder.version>
     <jasypt.version>1.9.3</jasypt.version>
@@ -121,7 +121,7 @@
     <maven-jar-plugin.version>3.4.1</maven-jar-plugin.version>
     <maven-clean-plugin.version>3.3.2</maven-clean-plugin.version>
     <git-commit-id-plugin.version>4.9.10</git-commit-id-plugin.version>
-    <maven-deploy-plugin.version>3.1.1</maven-deploy-plugin.version>
+    <maven-deploy-plugin.version>3.1.2</maven-deploy-plugin.version>
     <license-plugin.version>2.4.0</license-plugin.version>
     <org-jvnet-localizer-plugin.version>1.31</org-jvnet-localizer-plugin.version>
   </properties>
